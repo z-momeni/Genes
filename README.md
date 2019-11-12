@@ -8,8 +8,8 @@ to run this program follow these steps:
 -run Preprocess.py
 
 2- stage1: 
--in First Stage.ipynb four code segments are exist. run one by one from top. the description of each segment is written in first line of that segment.
+in First Stage.ipynb four code segments are exist. run one by one from top. the description of each segment is written in first line of that segment.
 
 3- stage2: 
--run Second stage.ipynb
+run Second stage.ipynb
 
